@@ -2,7 +2,7 @@ quick sketch pad application to practice dom manipulation
 
 Draw something cool!
 
-check it out here: 
+check it out here:  https://tajsharma.github.io/sketchpad/
 
 
 
