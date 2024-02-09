@@ -8,6 +8,9 @@
 
 .gridHolder{
     display: inline-block;
+    border: 5px solid palevioletred;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .tile {
@@ -16,5 +19,5 @@
     height: 20px;
     display: inline-block;
     border-radius: 5px;
-    margin-inline: 3px;
+    margin-inline: 1px;
 }
