@@ -7,8 +7,15 @@
 }
 
 .gridHolder{
-    display: flex;
-    width: 600px;
-    height: 600px;
-    border: 5px solid;
+    display: inline-block;
+    border: 5px solid peru;
 }
+
+.tile {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 0.5px;
+    border-radius: 5px;
+  }
